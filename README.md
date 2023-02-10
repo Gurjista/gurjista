@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there
+
+- 💻 I'm currently learning: C++, Python, Java, Unity GameDev
+- 🎮I'm currently a member of the programming team of [Dev-U](https://dev-unifei.github.io/)
+
+##
+[![Gurjista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjista&hide=issues,stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjista&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats)
+
+
 
 <!--
 **Gurjista/gurjista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
