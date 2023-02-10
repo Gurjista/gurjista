@@ -4,7 +4,7 @@
 - 🎮I'm currently a member of the programming team of [Dev-U](https://dev-unifei.github.io/)
 
 ##
-[![Gurjista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjista&hide=issues,stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjista&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only)
+[![Gurjista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjista&hide=issues,stars&count_private=true&theme=tokyonight)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjista&theme=tokyonight)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only)
 
 
 
