@@ -4,7 +4,7 @@
 - 🎮I'm currently a member of the programming team of [Dev-U](https://dev-unifei.github.io/)
 
 ##
-[![Gurjista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjista&hide=issues,stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjista&langs_count=8,theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only)
+[![Gurjista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjista&hide=issues,stars&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjista&theme=tokyonight#gh-dark-mode-only)](https://github.com/Gurjista/github-readme-stats#gh-dark-mode-only)
 
 
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!-- git stats -->
+<!-- git stats 
 -->
